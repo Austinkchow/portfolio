@@ -84,7 +84,7 @@ module.exports = {
       'gradient-to-tl': 'linear-gradient(to top left, var(--tw-gradient-stops))',
     },
     backgroundImage: theme => ({
-          'hero-pattern': "url('/img/isaac-chou-icVaVSd-8kQ-unsplash.jpg')",
+          'hero-pattern': "url('img/hero.jpg')",
         }),
     backgroundOpacity: (theme) => theme('opacity'),
     backgroundPosition: {
