@@ -4191,7 +4191,7 @@ video {
 }
 
 .bg-hero-pattern{
-  background-image: url('/img/isaac-chou-icVaVSd-8kQ-unsplash.jpg');
+  background-image: url('img/hero.jpg');
 }
 
 .from-transparent{
@@ -34789,7 +34789,7 @@ video {
   }
 
   .sm\:bg-hero-pattern{
-    background-image: url('/img/isaac-chou-icVaVSd-8kQ-unsplash.jpg');
+    background-image: url('img/hero.jpg');
   }
 
   .sm\:from-transparent{
@@ -65309,7 +65309,7 @@ video {
   }
 
   .md\:bg-hero-pattern{
-    background-image: url('/img/isaac-chou-icVaVSd-8kQ-unsplash.jpg');
+    background-image: url('img/hero.jpg');
   }
 
   .md\:from-transparent{
@@ -95829,7 +95829,7 @@ video {
   }
 
   .lg\:bg-hero-pattern{
-    background-image: url('/img/isaac-chou-icVaVSd-8kQ-unsplash.jpg');
+    background-image: url('img/hero.jpg');
   }
 
   .lg\:from-transparent{
@@ -126349,7 +126349,7 @@ video {
   }
 
   .xl\:bg-hero-pattern{
-    background-image: url('/img/isaac-chou-icVaVSd-8kQ-unsplash.jpg');
+    background-image: url('img/hero.jpg');
   }
 
   .xl\:from-transparent{
@@ -156869,7 +156869,7 @@ video {
   }
 
   .\32xl\:bg-hero-pattern{
-    background-image: url('/img/isaac-chou-icVaVSd-8kQ-unsplash.jpg');
+    background-image: url('img/hero.jpg');
   }
 
   .\32xl\:from-transparent{
