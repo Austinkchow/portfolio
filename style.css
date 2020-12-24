@@ -4194,6 +4194,10 @@ video {
   background-image: url('img/hero.jpg');
 }
 
+.bg-white-pattern{
+  background-image: url('img/white.jpg');
+}
+
 .from-transparent{
   --tw-gradient-from: transparent;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -34792,6 +34796,10 @@ video {
     background-image: url('img/hero.jpg');
   }
 
+  .sm\:bg-white-pattern{
+    background-image: url('img/white.jpg');
+  }
+
   .sm\:from-transparent{
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -65310,6 +65318,10 @@ video {
 
   .md\:bg-hero-pattern{
     background-image: url('img/hero.jpg');
+  }
+
+  .md\:bg-white-pattern{
+    background-image: url('img/white.jpg');
   }
 
   .md\:from-transparent{
@@ -95832,6 +95844,10 @@ video {
     background-image: url('img/hero.jpg');
   }
 
+  .lg\:bg-white-pattern{
+    background-image: url('img/white.jpg');
+  }
+
   .lg\:from-transparent{
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -126352,6 +126368,10 @@ video {
     background-image: url('img/hero.jpg');
   }
 
+  .xl\:bg-white-pattern{
+    background-image: url('img/white.jpg');
+  }
+
   .xl\:from-transparent{
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -156870,6 +156890,10 @@ video {
 
   .\32xl\:bg-hero-pattern{
     background-image: url('img/hero.jpg');
+  }
+
+  .\32xl\:bg-white-pattern{
+    background-image: url('img/white.jpg');
   }
 
   .\32xl\:from-transparent{
